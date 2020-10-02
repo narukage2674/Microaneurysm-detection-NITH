@@ -318,3 +318,4 @@ if __name__ == '__main__':
 
     plt.show(block=False)
     cv2.imwrite("fasfsa.png",255*result)
+    print("Tested successfully")
